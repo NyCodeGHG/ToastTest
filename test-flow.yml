@@ -1,0 +1,5 @@
+appId: cologne.marie.toasttest
+---
+- launchApp
+- tapOn: Show Toast
+- assertVisible: Hello Android
